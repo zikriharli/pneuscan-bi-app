@@ -1,5 +1,4 @@
 streamlit
-tensorflow-cpu
 plotly
 Pillow
 numpy<2.0.0
